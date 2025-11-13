@@ -1,4 +1,4 @@
-Foodify – Smart Food Ordering and Delivery System
+workSync – Smart Food Ordering and Delivery System
 2. Problem Statement
 Ordering food during peak hours in college canteens or local restaurants often leads to long
 queues, confusion, and order delays. Foodify aims to simplify this process by providing a
