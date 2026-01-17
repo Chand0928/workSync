@@ -43,6 +43,7 @@ PlanetScale (MySQL)
 6. API Overview
 Endpoint Method Description Access
 /api/auth/signup POST Register a new user Public
+
 /api/auth/login POST Authenticate user
 and return JWT
 Public
